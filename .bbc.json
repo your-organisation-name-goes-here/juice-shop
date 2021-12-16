@@ -1,0 +1,8 @@
+{
+  "team_id": "OWASP",
+  "semGrepConfig": {
+      "projectAndUnit": "iplayer-and-sounds.tv-client",
+      "ruleSet": "p/clientside-js",
+      "scanRoot": "/src/"
+    }
+}
