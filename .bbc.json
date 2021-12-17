@@ -3,6 +3,6 @@
   "semGrepConfig": {
       "projectAndUnit": "iplayer-and-sounds.tv-client",
       "ruleSet": "p/clientside-js",
-      "scanRoot": "/src/"
+      "scanRoot": "/frontend/src/"
     }
 }
